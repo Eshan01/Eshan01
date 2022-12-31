@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eshan Chandra Dangwal.
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning responsive web designing, JavaScript, ReactJS.
+- 🌱 I’m currently working on responsive web designing, JavaScript, ReactJS.
 - 💞️ I’m looking to collaborate on any front-end related projects.
 - 📫 How to reach me? mail me: eshandangwal9991@gmail.com
  <!---
